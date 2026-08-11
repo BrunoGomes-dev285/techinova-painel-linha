@@ -1,24 +1,26 @@
 # Respostas do LAB 01
 
-Nome:
-Matricula:
-Dupla (M2 em diante):
+Nome: Bruno Gomes Santana
+Matricula: Bruno 
+Dupla (M2 em diante): Arthur Reis de Oliveira
 
 ---
 
 ## M2 - Quem quebrou o painel
 
 **Hash curto do commit que introduziu o erro:**
+01ef93bf 
 
 **Autor:**
+Tarcisio Melo 
 
 **Data:**
-
+2026-06-15 22:38:00
 **Linha alterada (antes e depois):**
 
 ```
-antes:
-depois:
+antes: return leitura * 9 / 5 + 32;
+depois: return (leitura - 32) * 5 / 9
 ```
 
 ---
